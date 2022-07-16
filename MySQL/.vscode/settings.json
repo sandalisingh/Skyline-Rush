@@ -1,0 +1,12 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Sandali",
+            "group": "Sandy",
+            "database": "${workspaceFolder:MySQL}/Registration.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}

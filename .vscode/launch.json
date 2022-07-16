@@ -1,0 +1,55 @@
+// {
+//   "version": "0.2.0",
+//   "configurations": [
+//     {
+//       "name": "C/C++ Runner: Debug Session",
+//       "type": "cppdbg",
+//       "request": "launch",
+//       "args": [],
+//       "stopAtEntry": false,
+//       "cwd": "/Users/sandalisingh/Desktop/Projects/DodgingCarGame",
+//       "environment": [],
+//       "program": "/Users/sandalisingh/Desktop/Projects/DodgingCarGame/build/Debug/outDebug",
+//       "internalConsoleOptions": "openOnSessionStart",
+//       "MIMode": "gdb",
+//       "miDebuggerPath": "/usr/bin/lldb",
+//       "externalConsole": false,
+//       "setupCommands": [
+//         {
+//           "description": "Enable pretty-printing for gdb",
+//           "text": "-enable-pretty-printing",
+//           "ignoreFailures": true
+//         }
+//       ]
+//     }
+//   ]
+// }
+
+/* launch.json */
+{
+  "version": "2.0.0",
+  "configurations": [
+      {
+          "name": "C++ Launch",
+          "type": "cppdbg",
+          "request": "launch",
+          "program": "${workspaceRoot}/SingleFile",
+          "preLaunchTask": "build",
+          "internalConsoleOptions": "openOnSessionStart",
+          "logging": {
+              "moduleLoad": false,
+              "programOutput": true,
+              "trace": false
+          },
+          "showDisplayString": false,
+          "args": [],
+          "stopAtEntry": false,
+          "cwd": "${workspaceRoot}",
+          "environment": [],
+          "externalConsole": true, // set true to enable keyboard input
+          "osx": {
+              "MIMode": "lldb"
+          }
+      }
+  ]
+}

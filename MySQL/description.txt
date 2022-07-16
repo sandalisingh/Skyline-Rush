@@ -1,0 +1,46 @@
+(null): Username = DefaultUsername
+Password = DefaultPassword
+Score = -1
+Level = 0
+SAVED PASSWORD = DefaultPassword
+
+(null): Username = Fin
+Password = SandaliSingh
+Score = -1
+Level = 0
+SAVED PASSWORD = SandaliSingh
+
+(null): Username = ImaginaryDragon
+Password = SandaliSingh
+Score = -1
+Level = 0
+SAVED PASSWORD = SandaliSingh
+
+(null): Username = Selena
+Password = SandaliSingh
+Score = -1
+Level = 0
+SAVED PASSWORD = SandaliSingh
+
+(null): Username = Gigi
+Password = SandaliSingh
+Score = -1
+Level = 0
+SAVED PASSWORD = SandaliSingh
+
+(null): Username = Diljit
+Password = SandaliSingh
+Score = -1
+Level = 0
+SAVED PASSWORD = SandaliSingh
+
+(null): Username = Jass Manak
+Password = SandaliSingh
+Score = -1
+Level = 0
+SAVED PASSWORD = SandaliSingh
+
+(null): Username = Sandali
+Password = Singh
+Score = -1
+Level = 0
