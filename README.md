@@ -1,4 +1,4 @@
-# Dodging-Car-Game
+# DODGING CAR GAME
 
 - A 2D Car Dodging Game featuring Real Time Score Update functionality and Left-Right arrows 
 for car movement.
